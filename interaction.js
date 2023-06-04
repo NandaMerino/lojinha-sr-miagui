@@ -70,11 +70,11 @@ function mostrarProdutos() {
         nomeProduto.textContent = ITENS_LOJA[i].nome;
 
         let precoProduto = document.createElement("p");
-        precoProduto.textContent = "R$ " + ITENS_LOJA[i].preco.toFixed(2);
+        precoProduto.textContent = "Preço: R$ " + ITENS_LOJA[i].preco.toFixed(2);
         precoProduto.className = "precoProdutoClasse";
 
         let descricaoProduto = document.createElement("p");
-        descricaoProduto.textContent = ITENS_LOJA[i].descricao;
+        descricaoProduto.textContent = "Descrição: " + ITENS_LOJA[i].descricao;
 
         produtoDiv.appendChild(imageDiv);
         imageDiv.appendChild(url_imgProduto);
