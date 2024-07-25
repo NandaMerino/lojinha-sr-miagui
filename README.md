@@ -2,7 +2,7 @@
 
 ## Descrição
 
-A Lojinha Sr. Miagui é um projeto do 2º período do curso de Engenharia de Software, onde foi criado uma página para venda de produto, cadastro e exclusão. 
+A Lojinha Sr. Miagui é um projeto do 2º período do curso de Engenharia de Software, onde foi criado uma página para cadastro e exclusão de produto. 
 
 ## Tecnologias Utilizadas
 
