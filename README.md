@@ -33,7 +33,5 @@ Para clonar o repositório e executar o projeto localmente, siga os seguintes pa
 - `style.css`: Arquivo de estilos CSS.
 - `README.md`: Este arquivo de documentação.
 
-
-
-
-
+## GitHub Pages
+https://nandamerino.github.io/lojinha-sr-miagui/
